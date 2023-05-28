@@ -1,0 +1,6 @@
+.text {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    text-align: start;
+}

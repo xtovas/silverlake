@@ -1,0 +1,10 @@
+.header_background {
+position: absolute;
+width: 350px;
+height: 348px;
+left: 100.06px;
+top: 20px;
+
+background: #FFFFFF;
+filter: blur(100px);
+}

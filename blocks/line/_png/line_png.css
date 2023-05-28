@@ -1,0 +1,12 @@
+.line_png {
+    background: url(../../../images/line.png);
+    width: 360px;
+    height: 2px;    
+    margin-bottom: 15px;
+    position: relative;
+    align-self: center;
+}
+
+.line_png:last-child {
+    width: 390px;
+}

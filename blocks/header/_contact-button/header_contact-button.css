@@ -1,0 +1,17 @@
+.header_contact-button {
+    width: 208px;
+    height: 66px;
+    background: rgba(107, 102, 98, 0.5);
+    border: 1px solid #08102F;
+    border-radius: 15px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 143%;
+    margin-top: 40px;
+    margin-bottom: 56.44px;
+    cursor: pointer;
+}
+
+.header_contact-button:hover {
+    opacity: 0.6;
+}

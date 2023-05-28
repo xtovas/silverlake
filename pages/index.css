@@ -1,0 +1,68 @@
+/*font import*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/you2013');
+
+/*body*/
+@import url(../blocks/body/body.css);
+
+/*page*/
+@import url(../blocks/page/page.css);
+
+/*header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/_image/header_image.css);
+@import url(../blocks/header/_logo/header_logo.css);
+@import url(../blocks/header/_background/header_background.css);
+@import url(../blocks/header/_info-container/header_info-container.css);
+@import url(../blocks/header/_navigation/header_navigation.css);
+@import url(../blocks/header/_button/header_button.css);
+@import url(../blocks/header/_title/header_title.css);
+@import url(../blocks/header/_subtitle/header_subtitle.css);
+@import url(../blocks/header/_paragraph/header_paragraph.css);
+@import url(../blocks/header/_contact-button/header_contact-button.css);
+
+/*content*/
+@import url(../blocks/content/content.css);
+
+/*services*/
+@import url(../blocks/services/_title/services_title.css);
+@import url(../blocks/services/_headline/services_headline.css);
+@import url(../blocks/services/_columns/services_columns.css);
+
+/*line*/
+@import url(../blocks/line/_one/line_one.css);
+@import url(../blocks/line/_two/line_two.css);
+@import url(../blocks/line/_three/line_three.css);
+@import url(../blocks/line/_checkmark/line_checkmark.css);
+@import url(../blocks/line/_png/line_png.css);
+@import url(../blocks/line/line.css);
+
+/*text*/
+@import url(../blocks/text/text.css);
+@import url(../blocks/text/_content/text_content.css);
+
+/*images*/
+@import url(../blocks/images/images.css);
+@import url(../blocks/images/_image/images_image.css);
+@import url(../blocks/images/_item-1/images_item-1.css);
+@import url(../blocks/images/_item-2/images_item-2.css);
+@import url(../blocks/images/_item-3/images_item-3.css);
+@import url(../blocks/images/_item-4/images_item-4.css);
+@import url(../blocks/images/_item-5/images_item-5.css);
+
+/*advantages*/
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/_paragraph/advantages_paragraph.css);
+@import url(../blocks/advantages/_span-accent/advantages_span-accent.css);
+@import url(../blocks/advantages/_title/advantages_title.css);
+
+/*footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/_email/footer_email.css);
+@import url(../blocks/footer/_greeting/footer_greeting.css);
+@import url(../blocks/footer/_message/footer_message.css);
+@import url(../blocks/footer/_motto/footer_motto.css);
+@import url(../blocks/footer/_name/footer_name.css);
+@import url(../blocks/footer/_phone/footer_phone.css);
+@import url(../blocks/footer/_text/footer_text.css);
+@import url(../blocks/footer/_title/footer_title.css);

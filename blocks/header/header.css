@@ -1,0 +1,6 @@
+.header {
+    background-image: url(../../images/header_background.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: 50px;
+}

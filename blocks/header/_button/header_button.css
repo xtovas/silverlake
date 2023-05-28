@@ -1,0 +1,15 @@
+.header_button {
+    border: 1px solid #08102f;
+    border-radius: 15px;
+    background: none;
+    width: 85px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+.header_button:hover {
+    opacity: 0.6;
+}

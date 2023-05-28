@@ -1,0 +1,18 @@
+.services_headline {
+    width: 380px;
+    height: 98px;
+    background: #FFFFFF;
+    border: 1px solid #08102F;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin-right: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 143%;
+    margin-bottom: 70px;
+}
+
+.services_headline:last-child {
+    margin-right: 0;
+}
