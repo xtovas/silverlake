@@ -8,6 +8,7 @@
     font-size: 14px;
     line-height: 20px;
     cursor: pointer;
+    outline: none;
 }
 
 .header_button:hover {
